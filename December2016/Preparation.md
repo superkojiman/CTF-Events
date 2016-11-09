@@ -26,7 +26,6 @@ Teams are allowed to contain up to four members. Because this is an *offline*, r
    1. Your team name.
    2. The first & last names and aliases (if any) of your team members, as well as each member's email address.
    3. Your team's captain's name and phone number.
-   4. The filled out [questionaire](http://fill-me-out.horse/) as an attachment.
 
 Please note that **any submission not containing all of the information above will be rejected**.
 
