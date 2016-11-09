@@ -29,7 +29,7 @@ Teams are allowed to contain up to four members. Because this is an *offline*, r
    2. The first & last names and aliases (if any) of your team members, as well as each member's email address.
    3. Your team's captain's name and phone number.
 
-Please note that **any submission not containing all of the information above will be rejected**. 
+Please note that **any submission not containing all of the information above will be rejected**.
 
 ## Technology
 
