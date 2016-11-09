@@ -18,6 +18,8 @@ The event will be taking place at [HackLab.TO](https://hacklab.to/), which is [l
 
 ## Registration
 
+**Register soon!** Registration is limited to *ten* participating teams, and we are accepting a waitlist of *five* teams, and registration will be taking place in a first-come, first-served basis.
+
 Teams are allowed to contain up to four members. Because this is an *offline*, remote participation will not be possible.  The registration process is as follows:
 
 1. Finalize your team roster. Your team should ideally contain between three and four people.
@@ -28,9 +30,7 @@ Teams are allowed to contain up to four members. Because this is an *offline*, r
    3. Your team's captain's name and phone number.
    4. The filled out [questionaire](http://fill-me-out.horse/) as an attachment.
 
-Please note that **any submission not containing all of the information above will be rejected**.
-
- 
+Please note that **any submission not containing all of the information above will be rejected**. 
 
 ## Technology
 
