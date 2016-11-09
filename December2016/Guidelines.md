@@ -12,4 +12,5 @@ This document lists some general rules and guidelines that your team is expected
    * If you are using the Wi-Fi, you should not send any personal or sensitive information to any sites.
 3. Challenges are designed to have logical solutions.
    * If you find yourself attempting a bruteforce or dictionary attack, you are likely not on the right track.
-4. Be kind to your fellow participants. Everyone is here to have fun!
+4. Do not share any flags with other teams.
+5. Be kind to your fellow participants. Everyone is here to have fun!
