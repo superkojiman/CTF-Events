@@ -28,6 +28,7 @@ Teams are allowed to contain up to four members. Because this is an *offline*, r
    1. Your team name.
    2. The first & last names and aliases (if any) of your team members, as well as each member's email address.
    3. Your team's captain's name and phone number.
+   4. T Shirt size for each of team members based on the following chart (S/M/L/etc): [Sizes](http://dc416.com/wp-content/uploads/2016/11/sizes.png)
 
 Please note that **any submission not containing all of the information above will be rejected**. You will get an email confirming your registration once our staff reviews and approves.
 
