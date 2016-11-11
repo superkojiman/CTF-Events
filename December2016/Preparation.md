@@ -31,6 +31,7 @@ Teams are allowed to contain up to four members. Because this is an *offline*, r
    4. T Shirt size for each member based on the following [chart](http://dc416.com/wp-content/uploads/2016/11/sizes.png). i.e. S/M/L/XL
 
 Please note that **any submission not containing all of the information above will be rejected**. You will get an email confirming your registration once our staff reviews and approves.
+
 Registration deadline is **November 23rd**, we will *not* accept new teams after that date.
 
 ## Technology
