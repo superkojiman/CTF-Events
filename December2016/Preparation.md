@@ -14,7 +14,8 @@ The team from [VulnHub](https://www.vulnhub.com/) has been working very hard to 
 
 ## Event Venue
 
-The event will be taking place at [HackLab.TO](https://hacklab.to/), which is [located at 1266 Queen Street West](https://www.google.ca/maps/place/Hacklab/@43.6423023,-79.4295268,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34c232375415:0x4cbb3f8721e2392e!8m2!3d43.6423023!4d-79.4295268?hl=en) and begins at **9:30 AM**.
+The event will be taking place at [Verkspace](http://verk.space), which is [located at 100-32 Britain Street, Toronto, ON M5A 1R6
+](https://www.google.ca/maps/place/Verkspace/@43.653916,-79.370617,15z/data=!4m2!3m1!1s0x0:0x2fcf1a874ead22cb?sa=X&ved=0ahUKEwislc3PwqHQAhWq4IMKHdOUAnQQ_BIIdDAP) and begins at **9:30 AM**.
 
 ## Registration
 
