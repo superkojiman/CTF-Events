@@ -50,7 +50,7 @@ Make sure you bring your computer and its charger, too. There will be plenty of 
 
 ### Software
 
-Most of the flags are designed to be possible to be discovered using the tools provided out of the box with [Kali Linux](https://www.kali.org/). You can install Kali to a flash drive to boot from for the CTF using:
+Most of the flags are designed to be possible to be discovered using the tools provided out of the box with [Kali Linux](https://www.kali.org/). You can run Kali on a hypervisor like VMware or Virtualbox, or install it to a flash drive to boot from for the CTF using:
 
 * [Rufus on Windows](https://rufus.akeo.ie/)
 * [Unetbootin on Windows, Linux, or macOS](https://unetbootin.github.io/)
@@ -58,6 +58,6 @@ Most of the flags are designed to be possible to be discovered using the tools p
 Some specific tools you might want to become familiar with:
 
 * [Burp Suite HTTP Intercepting Proxy](https://portswigger.net/burp/) (has a free version)
-* [Binary Ninja](https://binary.ninja/demo.html) (has a free demo)
+* [Hopper Disassembler](https://www.hopperapp.com/) (30 minute eval version)
 * [WireShark](https://www.wireshark.org/) (is free)
 
