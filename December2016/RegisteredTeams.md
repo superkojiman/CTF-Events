@@ -10,3 +10,4 @@
 | 06 | SomeRandomName | 04 |
 | 07 | Robotic Monkeys Attacking Human Androids | 04 |
 | 08 | Kaa Kaaaa      | 04 |
+| 09 | SubGenius      | 04 |
