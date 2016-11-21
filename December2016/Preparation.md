@@ -1,5 +1,6 @@
 # Defcon Toronto Offline CTF Preparation
 
+**Registration ends November 22, 2016.**
 **Save the date!** The CTF takes place on December 3rd, 2016.
 
 DC416 is is happy to announce our second Capture The Flag event. [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) is a game wherein security professionals and hobbyists compete to solve challenges for which they are rewarded with "flags" that they can submit to earn points for their team. Challenges include:
