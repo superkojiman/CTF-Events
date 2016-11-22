@@ -34,7 +34,7 @@ Teams are allowed to contain up to four members. Because this is an *offline*, r
 
 Please note that **any submission not containing all of the information above will be rejected**. You will get an email confirming your registration once our staff reviews and approves.
 
-Registration deadline is **November 23rd**, we will *not* accept new teams after that date.
+Registration deadline is **November 22nd**, we will *not* accept new teams after that date.
 
 ## Technology
 
