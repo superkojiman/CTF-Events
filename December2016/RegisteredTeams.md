@@ -6,7 +6,7 @@
 | 02 | prch           | 02 |
 | 03 | Aleph-0        | 02 |
 | 04 | r00ting4u      | 04 |
-| 05 | Team Amrica    | 04 |
+| 05 | Team Amirica    | 04 |
 | 06 | SomeRandomName | 04 |
 | 07 | Robotic Monkeys Attacking Human Androids | 04 |
 | 08 | Kaa Kaaaa      | 04 |
