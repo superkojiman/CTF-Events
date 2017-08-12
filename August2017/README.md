@@ -1,0 +1,1 @@
+This directory contains the solutions to the 09 August 2017 rapidfire CTF. The web challenge was designed by [Dolev](https://twitter.com/dolevfarhi), and the pwnables, reversing, and forensics were designed by [superkojiman](https://twitter.com/superkojiman). 
